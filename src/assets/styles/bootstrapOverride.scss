@@ -1,0 +1,9 @@
+// Required
+@import "node_modules/bootstrap/scss/bootstrap";
+
+$theme-colors: ("primary": lime,
+  "danger": #ff4136);
+
+body {
+  background: lime;
+}
